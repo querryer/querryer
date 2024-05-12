@@ -1,16 +1,18 @@
-### Hi there 👋
+![cat](https://tenor.com/ru/view/plink-cat-plink-cat-gif-1794292671885121408)
 
-<!--
-**querryer/querryer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🏀 Hello everyone! Here you can see some info about me:
 
-Here are some ideas to get you started:
+  😇Now i'm learn in Kodland school
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  🤔I've already completed course "Python Base Intership"
+  🥱Also complete course "Python Pro"
+  🥶And now study at course "Python LVL3"
+
+🤟Also my personal:
+
+  ✨My name is Maxim
+  ✨13 y.o
+  ✨Completed 6 grade
+  ✨Wanna be programmist in future
+  
+
